@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\bin\Debug\Cc2.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\bin\Debug\Cc2.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\bin\Debug\Cc2.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\obj\Debug\Cc2.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\obj\Debug\Cc2.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\obj\Debug\Cc2.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Cc2\obj\Debug\Cc2.pdb

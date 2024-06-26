@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\bin\Debug\AA4.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\bin\Debug\AA4.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\bin\Debug\AA4.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\obj\Debug\AA4.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\obj\Debug\AA4.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\obj\Debug\AA4.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\Assignment4\AA4\obj\Debug\AA4.pdb
