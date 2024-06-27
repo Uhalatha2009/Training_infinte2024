@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AA4._2nd_program</StartupObject>
+    <StartupObject>AA4._3rd_program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="2nd program.cs" />
+    <Compile Include="3rd program.cs" />
+    <Compile Include="4th scholarship.cs" />
     <Compile Include="5th program.cs" />
     <Compile Include="1stprogram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
