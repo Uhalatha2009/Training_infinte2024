@@ -34,21 +34,17 @@ namespace AA4
             {
                 Scholarship scholarship = new Scholarship();
 
-                // Prompt the user to enter marks
+                
                 Console.Write("Enter marks: ");
                 double marks = double.Parse(Console.ReadLine());
 
-                // Prompt the user to enter fees
                 Console.Write("Enter fees: ");
                 double fees = double.Parse(Console.ReadLine());
 
-                // Calculate scholarship amount
                 double amount = scholarship.Merit(marks, fees);
 
-                // Display the scholarship amount
                 Console.WriteLine("Scholarship amount: $" + amount);
 
-                // Keep the console window open until a key is pressed
                 Console.ReadLine();
             }
         }

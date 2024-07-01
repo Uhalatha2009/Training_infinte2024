@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\bin\Debug\AA5.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\bin\Debug\AA5.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\bin\Debug\AA5.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\obj\Debug\AA5.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\obj\Debug\AA5.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\obj\Debug\AA5.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA5\obj\Debug\AA5.pdb
