@@ -1,0 +1,10 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\bin\Debug\TravelConcessionApp.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\bin\Debug\TravelConcessionApp.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\bin\Debug\TravelConcessionApp.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\bin\Debug\TravelConcessionLib.dll
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\bin\Debug\TravelConcessionLib.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\obj\Debug\TravelConcessionApp.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\obj\Debug\TravelConcessionApp.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\obj\Debug\TravelConcessionApp.csproj.CopyComplete
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\obj\Debug\TravelConcessionApp.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionApp\obj\Debug\TravelConcessionApp.pdb

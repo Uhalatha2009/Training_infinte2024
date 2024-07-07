@@ -1,0 +1,6 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\bin\Debug\RemotingServer.dll
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\bin\Debug\RemotingServer.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\obj\Debug\RemotingServer.dll
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\RemotingServer\obj\Debug\RemotingServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionLib\bin\Debug\TravelConcessionLib.dll
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionLib\bin\Debug\TravelConcessionLib.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionLib\obj\Debug\TravelConcessionLib.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionLib\obj\Debug\TravelConcessionLib.dll
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\TravelConcessionLib\obj\Debug\TravelConcessionLib.pdb

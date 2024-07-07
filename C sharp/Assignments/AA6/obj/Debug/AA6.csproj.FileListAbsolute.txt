@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\bin\Debug\AA6.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\bin\Debug\AA6.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\bin\Debug\AA6.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\obj\Debug\AA6.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\obj\Debug\AA6.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\obj\Debug\AA6.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assignments\AA6\obj\Debug\AA6.pdb

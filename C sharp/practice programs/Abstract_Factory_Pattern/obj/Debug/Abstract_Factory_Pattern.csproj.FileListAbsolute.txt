@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\bin\Debug\Abstract_Factory_Pattern.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\bin\Debug\Abstract_Factory_Pattern.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\bin\Debug\Abstract_Factory_Pattern.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\obj\Debug\Abstract_Factory_Pattern.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\obj\Debug\Abstract_Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\obj\Debug\Abstract_Factory_Pattern.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\practice programs\Abstract_Factory_Pattern\obj\Debug\Abstract_Factory_Pattern.pdb
