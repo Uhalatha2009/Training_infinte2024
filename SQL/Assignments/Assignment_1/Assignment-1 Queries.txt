@@ -78,8 +78,7 @@ create table tblProjects
 	Planned_End_Date DATE,
 	Actual_End_Date DATE,
 	Budget float(10) check (budget>0),
-	Client_ID int references tblclients(Client_ID),
-    constraint CHK_Actual_End_Date check (Actual_End_Date > Planned_End_Date)
+	Client_ID int references tblclients(Client_ID)
 )
  
 insert into tblProjects values
@@ -109,7 +108,7 @@ create table tblEmpProjectTasks
  
  
 insert into tblEmpProjectTasks values
-	(401, 7001, '2011-04-01', '2011-04-20', 'System Analysis', 'Completed'),
+    (401, 7001, '2011-04-01', '2011-04-20', 'System Analysis', 'Completed'),
     (401, 7002, '2011-04-21', '2011-05-30', 'System Design', 'Completed'),
     (401, 7003, '2011-06-01', '2011-07-15', 'Coding', 'Completed'),
     (401, 7004, '2011-07-18', '2011-09-01', 'Coding', 'Completed'),

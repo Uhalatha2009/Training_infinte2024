@@ -69,7 +69,7 @@ where Deptno=(select deptno from tblDEPT where dname='RESEARCH')
 select t2.ename,t2.sal as 'Rised salary',t1.dname from tblEMP t2 join tblDEPT t1 on t2.Deptno=t1.deptno
 where t1.dname='RESEARCH'
 
------- 5. Find the number of CLERKS employed. Give it a descriptive heading. S
+------ 5. Find the number of CLERKS employed. Give it a descriptive heading. 
 select count(*) as 'Employed CLERKS' from tblEMP
 where job='CLERK'
 
