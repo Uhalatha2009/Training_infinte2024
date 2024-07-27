@@ -46,8 +46,6 @@ namespace cc1
                     Console.WriteLine("Error: " + ex.Message);
                 }
          
-
-
                 using (SqlCommand command = new SqlCommand("SELECT * FROM EmployeeDetailss", con))
                 {
                     

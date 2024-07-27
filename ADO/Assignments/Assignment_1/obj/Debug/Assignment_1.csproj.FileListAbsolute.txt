@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\bin\Debug\Assignment_1.exe
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\obj\Debug\Assignment_1.exe
+C:\Users\palepuu\Desktop\Training 20204\ADO\Assignments\Assignment_1\obj\Debug\Assignment_1.pdb
