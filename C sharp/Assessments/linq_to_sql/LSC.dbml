@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Assignmentss" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ICS-LT-FV236D3\SQLEXPRESS;Initial Catalog=Assignmentss;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="linq_to_sql.Properties.Settings" SettingsPropertyName="AssignmentssConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblEMP" Member="tblEMPs">
+    <Type Name="tblEMP">
+      <Column Name="empno" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ename" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="job" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="mgr_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="hiredate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="sal" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="comm" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Deptno" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\bin\Debug\linq_to_sql.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\bin\Debug\linq_to_sql.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\bin\Debug\linq_to_sql.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\obj\Debug\linq_to_sql.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\obj\Debug\linq_to_sql.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\obj\Debug\linq_to_sql.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\linq_to_sql\obj\Debug\linq_to_sql.pdb

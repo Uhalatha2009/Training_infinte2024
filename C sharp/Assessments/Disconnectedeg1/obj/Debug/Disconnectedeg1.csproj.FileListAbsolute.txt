@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\bin\Debug\Disconnectedeg1.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\bin\Debug\Disconnectedeg1.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\bin\Debug\Disconnectedeg1.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\obj\Debug\Disconnectedeg1.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\obj\Debug\Disconnectedeg1.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\obj\Debug\Disconnectedeg1.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Disconnectedeg1\obj\Debug\Disconnectedeg1.pdb

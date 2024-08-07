@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\bin\Debug\update.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\bin\Debug\update.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\bin\Debug\update.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\obj\Debug\update.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\obj\Debug\update.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\obj\Debug\update.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\update\obj\Debug\update.pdb

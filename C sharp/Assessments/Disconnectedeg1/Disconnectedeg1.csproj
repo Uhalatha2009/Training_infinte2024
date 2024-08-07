@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E967EC61-EC9E-41F1-9A9C-69EE3567DB01}</ProjectGuid>
+    <ProjectGuid>{9D37348A-6957-4604-BF2E-338851D90C8A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>cc7</RootNamespace>
-    <AssemblyName>cc7</AssemblyName>
+    <RootNamespace>Disconnectedeg1</RootNamespace>
+    <AssemblyName>Disconnectedeg1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,10 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="question one.html" />
-    <Content Include="question second.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

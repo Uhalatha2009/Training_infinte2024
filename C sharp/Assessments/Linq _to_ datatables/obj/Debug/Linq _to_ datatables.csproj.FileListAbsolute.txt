@@ -1,0 +1,7 @@
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\bin\Debug\Linq _to_ datatables.exe.config
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\bin\Debug\Linq _to_ datatables.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\bin\Debug\Linq _to_ datatables.pdb
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\obj\Debug\Linq _to_ datatables.csproj.AssemblyReference.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\obj\Debug\Linq _to_ datatables.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\obj\Debug\Linq _to_ datatables.exe
+C:\Users\palepuu\Desktop\Training 20204\C sharp\Assessments\Linq _to_ datatables\obj\Debug\Linq _to_ datatables.pdb
