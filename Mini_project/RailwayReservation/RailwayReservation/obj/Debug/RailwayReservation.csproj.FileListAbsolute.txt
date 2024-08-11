@@ -1,0 +1,12 @@
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\RailwayReservation.exe.config
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\RailwayReservation.exe
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\RailwayReservation.pdb
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\EntityFramework.dll
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\EntityFramework.xml
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\obj\Debug\RailwayReservation.csproj.AssemblyReference.cache
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\obj\Debug\RailwayReservation.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\obj\Debug\RailwayReservation.csproj.CopyComplete
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\obj\Debug\RailwayReservation.exe
+C:\Users\palepuu\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Training 20204\Mini_project\RailwayReservation\RailwayReservation\obj\Debug\RailwayReservation.pdb
